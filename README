@@ -1,0 +1,7 @@
+##custom scripts are availabe
+
+DAG folder contain custom python scripts for DAG analysis.
+
+Protein folder contain shell script for running MD simulation.
+
+Sugenome folder contain custom python scripts for subgenome analysis.
